@@ -231,7 +231,7 @@ export default function Home() {
             <ShieldCheck className="w-4 h-4 text-accent" />
             <span>Encrypted locally in your browser. No data ever leaves your device.</span>
           </div>
-          <p>© 2024 Vault Generator • Built for Developers</p>
+          <p>© 2026 Vault Generator • Built for Developers By Techcloude</p>
         </footer>
       </motion.div>
     </div>
